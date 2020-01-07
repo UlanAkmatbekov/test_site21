@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f59ff7b4-7968-418f-9e87-e3cd3297d0c2" name="Default Changelist" comment="" />
+    <list default="true" id="f59ff7b4-7968-418f-9e87-e3cd3297d0c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="256" />
     <option name="y" value="54" />
     <option name="width" value="1042" />
@@ -86,12 +88,12 @@
       <workItem from="1570336442803" duration="61000" />
       <workItem from="1570336595523" duration="3644000" />
       <workItem from="1578154413549" duration="898000" />
-      <workItem from="1578383146633" duration="599000" />
+      <workItem from="1578383146633" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24903000" />
+    <option name="totallyTimeSpent" value="24904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="256" y="54" width="1042" height="614" extended-state="0" />
