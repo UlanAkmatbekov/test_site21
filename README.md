@@ -1,1 +1,1 @@
->>>>>>>>>>>>>>>>#Akmatbekov Ulanbek#
+Akmatbekov Ulanbek
